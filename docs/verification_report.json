@@ -1,0 +1,184 @@
+{
+  "routes": {
+    "/": {
+      "passed": false,
+      "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://localhost:4173/\", waiting until \"networkidle\"\n"
+    },
+    "/about": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "ABOUT VILLORA",
+      "screenshot": "docs/local_screenshots/about-full.png",
+      "passed": true
+    },
+    "/activities": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "OUR ACTIVITIES",
+      "screenshot": "docs/local_screenshots/activities-full.png",
+      "passed": true
+    },
+    "/activity/sunset-beach-walks": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "SUNSET BEACH WALKS",
+      "screenshot": "docs/local_screenshots/activity-detail-full.png",
+      "passed": true
+    },
+    "/facilities": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "OUR FACILITIES",
+      "screenshot": "docs/local_screenshots/facilities-full.png",
+      "passed": true
+    },
+    "/facility/large-pool": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "LARGE POOL",
+      "screenshot": "docs/local_screenshots/facility-detail-full.png",
+      "passed": true
+    },
+    "/vouchers": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Explore vouchers",
+      "screenshot": "docs/local_screenshots/vouchers-full.png",
+      "passed": true
+    },
+    "/voucher/sunset-dinner": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "SUNSET DINNER",
+      "screenshot": "docs/local_screenshots/voucher-detail-full.png",
+      "passed": true
+    },
+    "/blog": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "OUR INSIGHTS",
+      "screenshot": "docs/local_screenshots/blog-full.png",
+      "passed": true
+    },
+    "/blog/enjoying-a-slow-morning-at-the-villa": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Enjoying a slow morning at the villa",
+      "screenshot": "docs/local_screenshots/blog-detail-full.png",
+      "passed": true
+    },
+    "/gallery": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "OUR GALLERY",
+      "screenshot": "docs/local_screenshots/gallery-full.png",
+      "passed": true
+    },
+    "/booking": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Start planning your stay",
+      "screenshot": "docs/local_screenshots/booking-full.png",
+      "passed": true
+    },
+    "/contact": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Get in touch",
+      "screenshot": "docs/local_screenshots/contact-full.png",
+      "passed": true
+    },
+    "/privacy-policy": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Privacy Policy",
+      "screenshot": "docs/local_screenshots/privacy-policy-full.png",
+      "passed": true
+    },
+    "/style-guide": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "STYLE GUIDE",
+      "screenshot": "docs/local_screenshots/style-guide-full.png",
+      "passed": true
+    },
+    "/licenses": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Licenses",
+      "screenshot": "docs/local_screenshots/licenses-full.png",
+      "passed": true
+    },
+    "/changelog": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Changelog",
+      "screenshot": "docs/local_screenshots/changelog-full.png",
+      "passed": true
+    },
+    "/instructions": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "Instructions & Code Architecture",
+      "screenshot": "docs/local_screenshots/instructions-full.png",
+      "passed": true
+    },
+    "/non-existent-page": {
+      "status": 200,
+      "title": "Villora \u2014 Luxury Villa & Coastal Estate",
+      "h1": "PAGE NOT FOUND",
+      "screenshot": "docs/local_screenshots/not-found-full.png",
+      "passed": true
+    }
+  },
+  "interactions": {
+    "menu": {
+      "expanded_captured": true,
+      "links_count": 9,
+      "escape_closed": true,
+      "passed": true
+    },
+    "faq": {
+      "tab_switching": true,
+      "passed": true
+    },
+    "booking_form": {
+      "validation_verified": true,
+      "submission_verified": true,
+      "passed": true
+    },
+    "video_modal": {
+      "opened": true,
+      "closed_on_esc": true,
+      "passed": true
+    }
+  },
+  "responsive": {
+    "desktop-1920": {
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    "desktop-1366": {
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    "tablet-768": {
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    "mobile-390": {
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    "mobile-320": {
+      "width": 320,
+      "height": 700,
+      "passed": true
+    }
+  },
+  "errors": []
+}
