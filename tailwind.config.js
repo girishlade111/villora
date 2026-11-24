@@ -18,9 +18,9 @@ export default {
         border: 'rgba(10, 16, 16, 0.17)',
       },
       fontFamily: {
-        display: ['Oranienbaum', 'serif'],
-        heading: ['Bellefair', 'serif'],
-        sans: ['Manrope', 'sans-serif'],
+        display: ['Oranienbaum', 'Georgia', 'serif'],
+        heading: ['Bellefair', 'Georgia', 'serif'],
+        sans: ['Manrope', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
       },
       maxWidth: {
         'container': '1172px',
@@ -33,6 +33,15 @@ export default {
         'DEFAULT': '4px',
         'md': '6px',
         'lg': '8px',
+      },
+      keyframes: {
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-33.333%)' },
+        },
+      },
+      animation: {
+        marquee: 'marquee 30s linear infinite',
       },
     },
   },
