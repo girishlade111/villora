@@ -1,0 +1,1583 @@
+{
+  "about": {
+    "url": "https://villora.webflow.io/about",
+    "title": "About | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 15,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae00261fdb22983c9589b_Our%20core%20values%20of%20timeless%20coastal%20excellence.webp",
+        "alt": "Our core values of timeless coastal excellence",
+        "width": 1780,
+        "height": 1156,
+        "className": "about-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae00261fdb22983c9589b_Our%20core%20values%20of%20timeless%20coastal%20excellence.webp",
+        "alt": "Our core values of timeless coastal excellence",
+        "width": 1780,
+        "height": 1156,
+        "className": "about-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae43133c02291dd597e99_Alexander%20Morgan.webp",
+        "alt": "Alexander Morgan",
+        "width": 870,
+        "height": 870,
+        "className": "team-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae4a3b08e740b3da144d2_Olivia%20Bennett.webp",
+        "alt": "Olivia Bennett",
+        "width": 870,
+        "height": 870,
+        "className": "team-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae4a97432b95f5315c862_Ethan%20Carter.webp",
+        "alt": "Ethan Carter",
+        "width": 870,
+        "height": 870,
+        "className": "team-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adae4ab10d09ea0b86851aa_Sophia%20Reynolds.webp",
+        "alt": "Sophia Reynolds",
+        "width": 870,
+        "height": 870,
+        "className": "team-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adaea4cf64753a7f5719c84_Lesile%20Alex.webp",
+        "alt": "",
+        "width": 200,
+        "height": 200,
+        "className": "rev-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adaea50b18189d7e7cab3c3_Sophie%20Martin.webp",
+        "alt": "Sophie Martin",
+        "width": 200,
+        "height": 200,
+        "className": "rev-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6adaea54cd5a236352026262_James%20Wilson.webp",
+        "alt": "James Wilson",
+        "width": 200,
+        "height": 200,
+        "className": "rev-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "src": null,
+        "className": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "Villa",
+        "href": "https://villora.webflow.io/about#w-tabs-0-data-w-pane-0",
+        "className": "faq-link w-inline-block w-tab-link w--current"
+      },
+      {
+        "text": "Location",
+        "href": "https://villora.webflow.io/about#w-tabs-0-data-w-pane-1",
+        "className": "faq-link w-inline-block w-tab-link"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/about#w-tabs-0-data-w-pane-2",
+        "className": "faq-link w-inline-block w-tab-link"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item w--current"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Large pool",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Private beach",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Wellness & spa",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Fitness center",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Licenses",
+        "href": "https://villora.webflow.io/licenses",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Style guide",
+        "href": "https://villora.webflow.io/style-guide",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://villora.webflow.io/changelog",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Instructions",
+        "href": "https://villora.webflow.io/instructions",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://villora.webflow.io/privacy-policy",
+        "className": "footer-link legal-link"
+      }
+    ]
+  },
+  "activities": {
+    "url": "https://villora.webflow.io/activities",
+    "title": "Activities | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 16,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03db795fa1ada40480cd_Sunset%20beach%20walks%20thumbnail.webp",
+        "alt": "Sunset beach walks",
+        "width": 1400,
+        "height": 740,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03e0b38466fc1ac6c976_Sunset%20beach%20walks%20featured.webp",
+        "alt": "Sunset beach walks",
+        "width": 1920,
+        "height": 960,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03c10c07e07fffa96c09_Private%20boat%20trips%20thumbnail.webp",
+        "alt": "Private boat trips",
+        "width": 1400,
+        "height": 740,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03c5661aef24efc01287_Private%20boat%20trips%20featured.webp",
+        "alt": "Private boat trips",
+        "width": 1920,
+        "height": 960,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03a3a3c61c83d37a683f_Beach%20bonfire%20thumbnail.webp",
+        "alt": "Beach bonfire",
+        "width": 1400,
+        "height": 740,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03a65626a9a4850accad_Beach%20bonfire%20featured.webp",
+        "alt": "Beach bonfire",
+        "width": 1920,
+        "height": 960,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada038b17ed63abe89c6b97_Farm%20visit%20thumbnail.webp",
+        "alt": "Farm visit",
+        "width": 1400,
+        "height": 740,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada03905626a9a4850ab514_Farm%20visit%20featured.webp",
+        "alt": "Farm visit",
+        "width": 1920,
+        "height": 960,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada02ab4996f9410f4da5b7_Fishing%20in%20lake%20thumbnail.webp",
+        "alt": "Fishing in lake",
+        "width": 1400,
+        "height": 740,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ada02b0661aef24efbf20d4_Fishing%20in%20lake%20featured.webp",
+        "alt": "Fishing in lake",
+        "width": 1920,
+        "height": 960,
+        "className": "activiity-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "src": null,
+        "className": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "Sunset beach walks\nStroll along the sandy shore at sunset, feel the gentle ocean breeze, and enjoy breathtaking coastal views together.\nKnow more",
+        "href": "https://villora.webflow.io/activity/sunset-beach-walks",
+        "className": "activiity-card w-inline-block"
+      },
+      {
+        "text": "Private boat trips\nDiscover stunning coastlines on a private boat trip, enjoying crystal-clear waters, scenic views, and peaceful moments.\nKnow more",
+        "href": "https://villora.webflow.io/activity/private-boat-trips",
+        "className": "activiity-card w-inline-block"
+      },
+      {
+        "text": "Beach bonfire\nGather around a cozy beach bonfire, enjoy the ocean breeze, and create magical memories beneath the starry sky.\nKnow more",
+        "href": "https://villora.webflow.io/activity/beach-bonfire",
+        "className": "activiity-card w-inline-block"
+      },
+      {
+        "text": "Farm visit\nExplore the charm of farm life, meet friendly animals, and enjoy a refreshing countryside experience with loved ones.\nKnow more",
+        "href": "https://villora.webflow.io/activity/farm-visit",
+        "className": "activiity-card w-inline-block"
+      },
+      {
+        "text": "Fishing in lake\nEnjoy peaceful lake fishing surrounded by nature, perfect for relaxing and creating unforgettable moments together.\nKnow more",
+        "href": "https://villora.webflow.io/activity/fishing-in-lake",
+        "className": "activiity-card w-inline-block"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item w--current"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Large pool",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Private beach",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Wellness & spa",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Fitness center",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Licenses",
+        "href": "https://villora.webflow.io/licenses",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Style guide",
+        "href": "https://villora.webflow.io/style-guide",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://villora.webflow.io/changelog",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Instructions",
+        "href": "https://villora.webflow.io/instructions",
+        "className": "navigation-item"
+      }
+    ]
+  },
+  "facilities": {
+    "url": "https://villora.webflow.io/facilities",
+    "title": "Facilities | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 12,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f57b8fcaaf54ddd4cdb2_Large%20pool%20thumbnail.webp",
+        "alt": "Large pool",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f52a4cc5b88c8d271869_Private%20beach%20thumbnail.webp",
+        "alt": "Private beach",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f4d75ce6bcc597dde8f2_Fine%20dining%20thumbnail.webp",
+        "alt": "Fine dining",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f4790effb69db0979d37_Wellness%20%26%20spa%20thumbnail.webp",
+        "alt": "Wellness & spa",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f45da74015ca31c84461_Fitness%20center%20thumbnail.webp",
+        "alt": "Fitness center",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9f28730298c1c64095142_Private%20suites%20thumbnail.webp",
+        "alt": "Private suites",
+        "width": 900,
+        "height": 700,
+        "className": "facility-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "src": null,
+        "className": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "Large pool\nEnjoy refreshing swims and relaxing moments by the water.\nView more",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "Private beach\nEnjoy peaceful moments along the beautiful shoreline.\nView more",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "Fine dining\nSavour exceptional flavours with a memorable dining experience.\nView more",
+        "href": "https://villora.webflow.io/facility/fine-dining",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "Wellness & spa\nRejuvenate your mind and body in a tranquil setting.\nView more",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "Fitness center\nStay active with modern fitness equipment.\nView more",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "Private suites\nRelax in beautifully designed spaces with premium amenities.\nView more",
+        "href": "https://villora.webflow.io/facility/private-suites",
+        "className": "facility-card w-inline-block"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Large pool",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Private beach",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Wellness & spa",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Fitness center",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Licenses",
+        "href": "https://villora.webflow.io/licenses",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Style guide",
+        "href": "https://villora.webflow.io/style-guide",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://villora.webflow.io/changelog",
+        "className": "navigation-item"
+      }
+    ]
+  },
+  "vouchers": {
+    "url": "https://villora.webflow.io/vouchers",
+    "title": "Vouchers | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 7,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad99b581a15d867bea8233d_Villa%20Tour.webp",
+        "alt": "Watch villa tour",
+        "width": 1920,
+        "height": 960,
+        "className": "watch-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "Parent",
+        "href": "https://villora.webflow.io/vouchers#",
+        "className": "hero-link"
+      },
+      {
+        "text": "Explore",
+        "href": "https://villora.webflow.io/voucher/sunset-dinner",
+        "className": "button w-inline-block"
+      },
+      {
+        "text": "Explore",
+        "href": "https://villora.webflow.io/voucher/spa-wellness",
+        "className": "button w-inline-block"
+      },
+      {
+        "text": "Explore",
+        "href": "https://villora.webflow.io/voucher/weekend-escape",
+        "className": "button w-inline-block"
+      },
+      {
+        "text": "Watch villa tour",
+        "href": "https://villora.webflow.io/vouchers#",
+        "className": "watch-block w-inline-block w-lightbox"
+      },
+      {
+        "text": "Villa",
+        "href": "https://villora.webflow.io/vouchers#w-tabs-0-data-w-pane-0",
+        "className": "faq-link w-inline-block w-tab-link w--current"
+      },
+      {
+        "text": "Location",
+        "href": "https://villora.webflow.io/vouchers#w-tabs-0-data-w-pane-1",
+        "className": "faq-link w-inline-block w-tab-link"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/vouchers#w-tabs-0-data-w-pane-2",
+        "className": "faq-link w-inline-block w-tab-link"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Large pool",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Private beach",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Wellness & spa",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Fitness center",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Licenses",
+        "href": "https://villora.webflow.io/licenses",
+        "className": "navigation-item"
+      }
+    ]
+  },
+  "blog": {
+    "url": "https://villora.webflow.io/blog",
+    "title": "Blog | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 10,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9ccc38197cd1c531b076e_How%20to%20enjoy%20a%20slow%20and%20peaceful%20morning%20at%20the%20villa%20thumbnail.webp",
+        "alt": "Enjoying a slow morning at the villa",
+        "width": 1780,
+        "height": 1320,
+        "className": "blog-thumb"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9ccb2a68d810014ca3c3e_Planning%20the%20perfect%20villa%20weekend%20thumbnail.webp",
+        "alt": "Planning the perfect villa weekend",
+        "width": 1780,
+        "height": 1320,
+        "className": "blog-thumb"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9cc9b08e939541016d2fb_A%20weekend%20guide%20to%20your%20perfect%20villa%20escape%20thumbnail.webp",
+        "alt": "A weekend guide to your villa escape",
+        "width": 1780,
+        "height": 1320,
+        "className": "blog-thumb"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ad9c67e195c9f2a21c06309/6ad9cc38c2a14133322a8d77_Hidden%20gems%20to%20explore%20around%20the%20villa%20thumbnail.webp",
+        "alt": "Hidden gems to explore around the villa",
+        "width": 1780,
+        "height": 1320,
+        "className": "blog-thumb"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "src": null,
+        "className": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "Enjoying a slow morning at the villa",
+        "href": "https://villora.webflow.io/blog/enjoying-a-slow-morning-at-the-villa",
+        "className": "blog-post w-inline-block"
+      },
+      {
+        "text": "Planning the perfect villa weekend",
+        "href": "https://villora.webflow.io/blog/planning-the-perfect-villa-weekend",
+        "className": "blog-post w-inline-block"
+      },
+      {
+        "text": "A weekend guide to your villa escape",
+        "href": "https://villora.webflow.io/blog/a-weekend-guide-to-your-villa-escape",
+        "className": "blog-post w-inline-block"
+      },
+      {
+        "text": "Hidden gems to explore around the villa",
+        "href": "https://villora.webflow.io/blog/hidden-gems-to-explore-around-the-villa",
+        "className": "blog-post w-inline-block"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Large pool",
+        "href": "https://villora.webflow.io/facility/large-pool",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Private beach",
+        "href": "https://villora.webflow.io/facility/private-beach",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Wellness & spa",
+        "href": "https://villora.webflow.io/facility/wellness-spa",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Fitness center",
+        "href": "https://villora.webflow.io/facility/fitness-center",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Licenses",
+        "href": "https://villora.webflow.io/licenses",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Style guide",
+        "href": "https://villora.webflow.io/style-guide",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://villora.webflow.io/changelog",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Instructions",
+        "href": "https://villora.webflow.io/instructions",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://villora.webflow.io/privacy-policy",
+        "className": "footer-link legal-link"
+      }
+    ]
+  },
+  "gallery": {
+    "url": "https://villora.webflow.io/gallery",
+    "title": "Gallery | Villora - Webflow HTML website template",
+    "styles": {
+      "backgroundColor": "rgb(235, 227, 218)",
+      "color": "rgb(71, 71, 71)",
+      "fontFamily": "Manrope, Arial, sans-serif",
+      "fontSize": "16px"
+    },
+    "images_count": 20,
+    "images": [
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204243908f964997bfb_1913329986d0b7900abdc3790e18a376_Dark%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 150,
+        "height": 29,
+        "className": "header-brand"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b02f35c0250d422af764_Gallery%20Image%2001.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1152,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b03e4dd1eb15497e0e5b_82ba208b6e9cd87de90dd55cee34b570_Gallery%20Image%2007.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1364,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b0548e6dbfc85133577d_4acda5fbed9d029136a50d1d58778830_Gallery%20Image%2014.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 660,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b0312647e75c4b578f64_Gallery%20Image%2002.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1152,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b0447cf2f028a36fd097_bddcf41eb5c97e646215292dd7ff93c5_Gallery%20Image%2008.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 554,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b0476d36a47e5de70953_1b5bbfac5ceaa28b487559233cbd5bb3_Gallery%20Image%2009.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1456,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b03302cb8e3c9300f893_Gallery%20Image%2003.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 732,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b035b26ee7b967a908c1_Gallery%20Image%2004.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 630,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b04a83bbc993013b4ce9_ec7c1654d5fc8fd1e5a3fffd67d4cd36_Gallery%20Image%2010.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 620,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b04dad36a0eec03a5ba2_41b9c3012238eab689cf441e880c865b_Gallery%20Image%2011.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 622,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b0d75a32c8c14b729126_857cdf81d093787d5496ae93e7af7935_Gallery%20Image%2007.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 484,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b039e1a0d9077f11c2d2_Gallery%20Image%2005.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1072,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b04fc75db4aa20f67f95_16ab7fcf4180a7603481cf7143eb97b6_Gallery%20Image%2012.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 708,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad9b05102cb8e3c93010254_3adada53c4ada9e7277edddacf804e2c_Gallery%20Image%2013.webp",
+        "alt": "Our Gallery Image",
+        "width": 870,
+        "height": 1368,
+        "className": "gallery-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6ad70204f70c9db541874331_a99df10be595a643d146bbba4f305a5a_Light%20Logo.svg",
+        "alt": "Villora Site Dark Logo",
+        "width": 145,
+        "height": 29,
+        "className": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bf_Webflow.svg",
+        "alt": "Webflow",
+        "width": 18,
+        "height": 11,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42bd_TNCFlow.svg",
+        "alt": "TNCFlow",
+        "width": 13,
+        "height": 16,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42be_Customization.svg",
+        "alt": "Customization",
+        "width": 15,
+        "height": 14,
+        "className": "buy-now-favicon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6aa3d0584b139441c99e6df5/6aed42610c1f71787a7c42c0_Questions.svg",
+        "alt": "Questions",
+        "width": 8,
+        "height": 12,
+        "className": "buy-now-favicon"
+      }
+    ],
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "src": null,
+        "className": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "header-brand-block w-inline-block"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Facilities",
+        "href": "https://villora.webflow.io/facilities",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Vouchers",
+        "href": "https://villora.webflow.io/vouchers",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Our blog",
+        "href": "https://villora.webflow.io/blog",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Gallery",
+        "href": "https://villora.webflow.io/gallery",
+        "className": "header-nav-link w-inline-block w--current"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Contact",
+        "href": "https://villora.webflow.io/contact",
+        "className": "header-nav-link w-inline-block"
+      },
+      {
+        "text": "Booking",
+        "href": "https://villora.webflow.io/booking",
+        "className": "button w-variant-9972971a-2780-582b-107f-0184a820226e w-inline-block"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/gallery#",
+        "className": "gallery-card w-inline-block w-lightbox"
+      },
+      {
+        "text": "",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-brand w-inline-block"
+      },
+      {
+        "text": "villora@example.com",
+        "href": "mailto:villora@example.com?subject=villora%40example.com",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Home",
+        "href": "https://villora.webflow.io/",
+        "className": "navigation-item"
+      },
+      {
+        "text": "About",
+        "href": "https://villora.webflow.io/about",
+        "className": "navigation-item"
+      },
+      {
+        "text": "Activities",
+        "href": "https://villora.webflow.io/activities",
+        "className": "navigation-item"
+      }
+    ]
+  }
+}
